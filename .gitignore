@@ -136,4 +136,3 @@ build
 /.cache
 /.tmp
 node_modules/
-.env
