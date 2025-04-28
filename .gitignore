@@ -130,3 +130,10 @@ build
 .strapi-updater.json
 .strapi-cloud.json
 .cache
+/build
+/dist
+/.strapi
+/.cache
+/.tmp
+node_modules/
+.env
